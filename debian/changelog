@@ -1,0 +1,11 @@
+cuteui (0.8-1) UNRELEASED; urgency=high
+
+  * fix dark theme
+
+ -- weilinfox <support@cuteos.com>  Fri, 10 Jun 2022 16:20:21 +0800
+
+cuteui (0.8) UNRELEASED; urgency=high
+
+  * Initial release (CuteOS)  <support@cuteod.com>
+
+ -- CuteOS Packaging Team <support@cuteos.com>  Sat, 29 Jan 2022 03:23:53 +0800
